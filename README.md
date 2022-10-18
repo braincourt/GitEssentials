@@ -1,5 +1,9 @@
 # Resources
 
+## Installation
+
+- [Git for Windows](https://gitforwindows.org/)
+
 ## GUIs
 
 - [Github Desktop](https://desktop.github.com/)
