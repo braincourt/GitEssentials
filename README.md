@@ -1,4 +1,6 @@
 # Resources
+## Confluence Links
+- [Git Essentials](https://braincourt.atlassian.net/l/cp/waQBUCNh)
 
 ## Installation
 
