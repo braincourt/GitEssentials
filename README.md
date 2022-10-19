@@ -5,6 +5,7 @@
 ## Installation
 
 - [Git for Windows](https://gitforwindows.org/)
+- [Github CLI](https://cli.github.com/)
 
 ## GUIs
 
