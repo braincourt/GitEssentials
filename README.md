@@ -41,3 +41,8 @@
 - [Atom](https://atom.io/)
 
    (hackable editor with integrated Git/Diff functionality)
+ 
+ ## Git Advanced
+ - [Advanced Git Chapter 1](https://www.raywenderlich.com/books/advanced-git/v1.0/chapters/1-how-does-git-actually-work)
+ - [Commits are Snapshots not Diffs](https://github.blog/2020-12-17-commits-are-snapshots-not-diffs/)
+ 
